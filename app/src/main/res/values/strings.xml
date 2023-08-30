@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Wallet App</string>
+    <string name="text_new_account">Nueva Cuenta</string>
+    <string name="text_btn_save">Guardar</string>
 </resources>
